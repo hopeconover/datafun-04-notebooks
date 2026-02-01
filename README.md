@@ -116,7 +116,7 @@ In this project, **notebooks are the primary analysis artifact**; but scripts ca
 In the same VS Code terminal, run the example Python source files as modules (preferred):
 
 ```shell
-uv run python -m datafun_04_notebooks.app_case
+uv run python -m datafun_04_notebooks.app_conover
 ```
 
 If a command fails, verify:
@@ -160,13 +160,13 @@ Additional details and troubleshooting are available in the [Pro-Analytics-02 Do
 
 Open [mkdocs.yaml](./mkdocs.yaml).
 This file configures the associated project documentation website (powered by MkDocs)
-Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase`).
+Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase` or `hopeconover`).
 Change each occurrence to point to your GitHub account instead (spacing and capitalization MUST match the URL of your GitHub account **exactly**.)
 
 ### Project Task 2. Personalize This README.md file
 
 Edit this file in VS Code.
-Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase`).
+Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase` or `hopeconover`).
 Change each occurrence to point to your GitHub account instead (spacing and capitalization MUST match the URL of your GitHub account **exactly**.)
 
 ### Project Task 3. Run the Script Example
@@ -180,7 +180,7 @@ Change each occurrence to point to your GitHub account instead (spacing and capi
 ### Project Task 4. Run the Notebook Example
 
 In VS Code, with this project open, navigate to the notebooks/ folder.
-Open `eda_case.ipynb`.
+Open `eda_conover_demo.ipynb`.
 
 Follow the instructions to:
 
