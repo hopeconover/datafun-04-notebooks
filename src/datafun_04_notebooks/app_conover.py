@@ -1,7 +1,7 @@
-"""app_case.py - Project script (example).
+"""app_conover.py - Project script (example).
 
-Author: Denise Case
-Date: 2026-01
+Author: Hope Conover
+Date: 2026-02
 
 Purpose:
 - Perform exploratory data analysis (EDA) on the penguins dataset
