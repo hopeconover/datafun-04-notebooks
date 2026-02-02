@@ -32,7 +32,7 @@ you'll create a similar notebook to explore a different **tabular** data file (a
 ## 01: Set Up Machine (Once Per Machine)
 
 Follow the detailed instructions at:
-[**01. Set Up Your Machine**](https://denisecase.github.io/pro-analytics-02/01-set-up-machine/)
+[**01. Set Up Your Machine**](https://hopeconover.github.io/pro-analytics-02/01-set-up-machine/)
 
 ## 02: Set Up Project (Once Per Project)
 
@@ -87,14 +87,14 @@ uvx pre-commit run --all-files
 ```
 
 For more detailed instructions and troubleshooting, see the pro guide at:
-[**02. Set Up Your Project**](https://denisecase.github.io/pro-analytics-02/02-set-up-project/)
+[**02. Set Up Your Project**](https://hopeconover.github.io/pro-analytics-02/02-set-up-project/)
 
 🛑 Do not continue until all REQUIRED steps are complete and verified.
 
 ## 03: Daily Workflow (Working With Python Project Code)
 
 Follow the detailed instructions at:
-[**03. Daily Workflow**](https://denisecase.github.io/pro-analytics-02/03-daily-workflow/)
+[**03. Daily Workflow**](https://hopeconover.github.io/pro-analytics-02/03-daily-workflow/)
 
 Commands are provided below to:
 
@@ -150,7 +150,7 @@ git commit -m "update"
 git push -u origin main
 ```
 
-Additional details and troubleshooting are available in the [Pro-Analytics-02 Documentation](https://denisecase.github.io/pro-analytics-02/).
+Additional details and troubleshooting are available in the [Pro-Analytics-02 Documentation](https://hopeconover.github.io/pro-analytics-02/).
 
 ---
 
@@ -166,7 +166,7 @@ Change each occurrence to point to your GitHub account instead (spacing and capi
 ### Project Task 2. Personalize This README.md file
 
 Edit this file in VS Code.
-Use CTRL+f to find each occurrence of the source GitHub account (e.g. `denisecase` or `hopeconover`).
+Use CTRL+f to find each occurrence of the source GitHub account (e.g. `hopeconover`).
 Change each occurrence to point to your GitHub account instead (spacing and capitalization MUST match the URL of your GitHub account **exactly**.)
 
 ### Project Task 3. Run the Script Example
